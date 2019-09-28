@@ -1,2 +1,3 @@
 def hello_world():
-	return False
+	print ('hello world')
+	return True
